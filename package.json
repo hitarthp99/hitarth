@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hitarthp99.github.io/hitarth",
   "name": "myproject",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "json-server": "json-server --watch data.json --port 1000"
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d dist"
+    
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
