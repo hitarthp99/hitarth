@@ -1,0 +1,117 @@
+{
+  "apoments": [
+    {
+      "id": "7e5a",
+      "name": "hitarth",
+      "gender": "Male",
+      "contact": "9512721508",
+      "email": "hitarth123@gmail.com",
+      "city": "Ahmedabad",
+      "location": "Maninagar",
+      "Preferredtime": "11:00 AM",
+      "serviceType": "Head Massage",
+      "preferredDate": "2025-06-26"
+    },
+    {
+      "id": "79fb",
+      "name": "hitarth",
+      "gender": "Male",
+      "contact": "9104567258",
+      "email": "prenu2309@gmail.com",
+      "city": "Ahmedabad",
+      "location": "Satellite",
+      "Preferredtime": "11:00 AM",
+      "serviceType": "Head Massage",
+      "preferredDate": "2025-06-28"
+    },
+    {
+      "id": "ebb9",
+      "name": "hitarth",
+      "gender": "Male",
+      "contact": "9104567258",
+      "email": "hitarthp29@gmail.com",
+      "city": "Ahmedabad",
+      "location": "Satellite",
+      "Preferredtime": "9:00 AM",
+      "serviceType": "Cut and Hair Care",
+      "preferredDate": "2025-06-18"
+    },
+    {
+      "id": "f826",
+      "name": "hitarth",
+      "gender": "Male",
+      "contact": "9104567258",
+      "email": "hitarthp29@gmail.com",
+      "city": "Ahmedabad",
+      "location": "Satellite",
+      "Preferredtime": "11:00 AM",
+      "serviceType": "Shampoo & Conditioning",
+      "preferredDate": "2025-06-27"
+    },
+    {
+      "id": "1bf0",
+      "name": "The Sneaker Spot",
+      "gender": "Male",
+      "contact": "9104567258",
+      "email": "potar99@gmail.com",
+      "city": "Ahmedabad",
+      "location": "Maninagar",
+      "Preferredtime": "2:00 PM",
+      "serviceType": "Hi-Lites",
+      "preferredDate": "2025-06-20"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1175",
+      "name": "hitarth",
+      "email": "hitarth123@gmail.com",
+      "contact": "9104567258",
+      "query": "GODD"
+    },
+    {
+      "id": "9dfe",
+      "name": "nidhi corporation",
+      "email": "potar99@gmail.com",
+      "contact": "9104567258",
+      "query": "3q43ayr"
+    },
+    {
+      "id": "d977",
+      "name": "hitarth",
+      "email": "hitarth123@gmail.com",
+      "contact": "9104567258",
+      "query": "qwertyuiodfghjknm"
+    },
+    {
+      "id": "8230",
+      "name": "hitarth",
+      "email": "hitarth123@gmail.com",
+      "contact": "9104567258",
+      "query": "hu hitarth chu"
+    },
+    {
+      "id": "8313",
+      "name": "hitarth",
+      "email": "potar99@gmail.com",
+      "contact": "9104567258",
+      "query": "gg"
+    }
+  ],
+  "academy": [
+    {
+      "id": "53c4",
+      "name": "hitarth",
+      "email": "hitarthp29@gmail.com",
+      "phone": "9104567899",
+      "course": "Classic Cut"
+    },
+    {
+      "id": "960d",
+      "name": "nidhi corporation",
+      "email": "hitarthp29@gmail.com",
+      "phone": "9998678999",
+      "course": "Mens Hair Dressing"
+    }
+  ]
+}
